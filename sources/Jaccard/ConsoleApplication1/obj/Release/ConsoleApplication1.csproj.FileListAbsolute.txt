@@ -1,0 +1,6 @@
+B:\Dropbox\Università\Big Data\Mirko Associazione 2.0\Jaccard\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+B:\Dropbox\Università\Big Data\Mirko Associazione 2.0\Jaccard\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+B:\Dropbox\Università\Big Data\Mirko Associazione 2.0\Jaccard\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+B:\Dropbox\Università\Big Data\Mirko Associazione 2.0\Jaccard\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+B:\Dropbox\Università\Big Data\Mirko Associazione 2.0\Jaccard\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+B:\Dropbox\Università\Big Data\Mirko Associazione 2.0\Jaccard\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache

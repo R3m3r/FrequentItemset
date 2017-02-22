@@ -1,0 +1,5 @@
+B:\Dropbox\Università\Big Data\Mirko Associazione 2.0\Duplicator\Duplicator\bin\Release\Duplicator.exe.config
+B:\Dropbox\Università\Big Data\Mirko Associazione 2.0\Duplicator\Duplicator\bin\Release\Duplicator.exe
+B:\Dropbox\Università\Big Data\Mirko Associazione 2.0\Duplicator\Duplicator\bin\Release\Duplicator.pdb
+B:\Dropbox\Università\Big Data\Mirko Associazione 2.0\Duplicator\Duplicator\obj\Release\Duplicator.exe
+B:\Dropbox\Università\Big Data\Mirko Associazione 2.0\Duplicator\Duplicator\obj\Release\Duplicator.pdb
